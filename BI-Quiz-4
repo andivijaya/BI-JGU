@@ -1,0 +1,8 @@
+DATA UNDERSTANDING (13) 
+Data Visualization – Histograms  
+• A histogram shows the frequency distribution  for a numerical attribute. 
+• The range of numerical attribute is discretized  into a fixed number of intervals (“bins”),  
+usually of equal length. 
+• For each interval, the (absolute) frequency of  values falling into it is indicated by the height  
+of a bar. 
+• The number of bins is very important.
